@@ -1,0 +1,45 @@
+package exam2019_1;
+interface person
+{
+	void hasName();
+	void hasAge();
+	void hasAddress();
+}
+abstract class  engineer implements person
+{
+    abstract void  hasQuality();
+	
+}
+
+class consultan extends engineer
+{
+
+	@Override
+	public void hasName() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void hasAge() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void hasAddress() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void hasQuality() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
+
+public class E_3_a {
+
+}

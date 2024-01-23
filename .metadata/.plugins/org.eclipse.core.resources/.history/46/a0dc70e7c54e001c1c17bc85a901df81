@@ -1,0 +1,31 @@
+package superKeyword;
+
+class A {
+
+	int x, y;
+
+	A(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+}
+
+class B extends A {
+
+	B(int x, int y) {
+		super(x, y);
+
+	}
+
+	void display() {
+		System.out.println(x + 2);
+	}
+}
+
+public class superDemo1 {
+	public static void main(String[] args) {
+		B b = new B(2, 5);
+		b.display();
+	}
+
+}

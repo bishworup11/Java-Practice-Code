@@ -1,0 +1,27 @@
+package filedemo;
+
+import java.io.File;
+
+public class filedemo {
+
+	public static void main(String[] args) {
+		File dir=new File("person");
+		dir.mkdir();
+		String s=dir.getAbsolutePath();
+		System.out.println(s);
+		System.out.println(dir.getName());
+		
+		File file1 = new File("student.txt");
+		File file2 = new File("teacher.txt");
+		
+		try {
+			
+			file1.createNewFile();
+			file2.createNewFile();
+			
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+		
+	}
+}

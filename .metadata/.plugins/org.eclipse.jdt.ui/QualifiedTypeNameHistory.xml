@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="AbstractandInterface.MiniZoo"/>
+    <fullyQualifiedTypeName name="AbstractandInterface.Tiger"/>
+    <fullyQualifiedTypeName name="AbstractandInterface.Animal"/>
+    <fullyQualifiedTypeName name="AbstractandInterface.MiniZooDemo"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Formatter"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="lavPractice.MyInterfaace"/>
+    <fullyQualifiedTypeName name="lavPractice.javaApplicationDemo1"/>
+    <fullyQualifiedTypeName name="calculator.Add"/>
+    <fullyQualifiedTypeName name="pack1.circle"/>
+    <fullyQualifiedTypeName name="accessm.Circle"/>
+    <fullyQualifiedTypeName name="accessm.shape"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="ExecptionExample.ExceptionDemo"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="SychronizedExample.Mythread1"/>
+    <fullyQualifiedTypeName name="SychronizedExample.Table"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="threadsleep.TestSleepMethod1"/>
+    <fullyQualifiedTypeName name="runnableThread.multi1"/>
+    <fullyQualifiedTypeName name="threadDemo1.hello"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="threadDemoSynchronized.myt"/>
+    <fullyQualifiedTypeName name="threadDemoSynchronized.myt1"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="threadDemoSynchronized.Counter"/>
+    <fullyQualifiedTypeName name="exam2019_1.counter"/>
+    <fullyQualifiedTypeName name="sun.text.resources.ext.FormatData_et_EE"/>
+    <fullyQualifiedTypeName name="com.sun.source.tree.ForLoopTree"/>
+    <fullyQualifiedTypeName name="exam2019_1.consultan"/>
+    <fullyQualifiedTypeName name="exam2019_1.Myclass"/>
+</qualifiedTypeNameHistroy>
