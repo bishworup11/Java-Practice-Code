@@ -1,1 +1,0 @@
-module hellodemo {exports hellodemo;requires myclasses;}
